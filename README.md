@@ -1,6 +1,6 @@
 # AMPL-workshop-1
 
-# NCI Data Science Learning Exchange Hands-on Seminar: 
+# NCI Data Science Learning Exchange Hands-on Tutorial: 
 ## *ATOM Modeling Pipeline (AMPL) for Drug Discovery*
 *Presented by S. Ravichandran, Ph.D., BIDS, Frederick National Laboratory for Cancer Research (FNLCR)*
 
