@@ -4,7 +4,8 @@
 ## *ATOM Modeling Pipeline (AMPL) for Drug Discovery*
 *Presented by S. Ravichandran, Ph.D., BIDS, ATOM, Frederick National Laboratory for Cancer Research (FNLCR)*
 
-In this workshop, we will demonstrate how to use Atom Modeling PipeLine (AMPL; https://github.com/ATOMconsortium/AMPL), a new, open-source conda-based software that automates key drug discovery steps. AMPL is designed to take molecular binding data (ex., IC50, ki, etc.) and carry out the ML steps listed in the figure above with minimal user intervention. The first workshop will introduce AMPL and highlight AMPL’s capabilities for creating ML-ready datasets. Follow-on workshops will be offered during the summer and will cover modeling methods and inference. 
+![ML-ready dataset creation using AMPL](Img/ml-ready.PNG)
+In this workshop, we will demonstrate how to use Atom Modeling PipeLine (AMPL; https://github.com/ATOMconsortium/AMPL), a new, open-source conda-based software that automates key drug discovery steps. AMPL is designed to take molecular binding data (ex., IC50, ki, etc.) and carry out the Machine-Learning (ML) steps listed in the figure above with minimal user intervention. The first workshop will introduce AMPL and highlight AMPL’s capabilities for creating ML-ready datasets. Follow-on workshops will be offered during the summer and will cover modeling methods and inference. 
 
 The workshop on June 8 will include two parts, a short presentation followed by a hands-on tutorial. 
 
