@@ -24,3 +24,7 @@ To begin:
 
 
 * If you have trouble with Binder, click **predict-drugclass.ipynb** above to view a static Python JupyterNotebook.
+
+## Acknowledgements
+* ATOM team
+
