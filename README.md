@@ -27,9 +27,15 @@ To begin:
 
 ## Supporting links
 
+### AMPL Tutorials:
+* https://github.com/ATOMconsortium/AMPL/tree/Tutorials/atomsci/ddm/examples/tutorials 
+* https://github.com/ravichas/AMPL-Tutorial
+* https://hpc.nih.gov/apps/ampl.html
+
 ### Similar chemoinformatics, drug-discovery software tools:
 * DeepChem, https://deepchem.io/
 * rdkit, https://www.rdkit.org/
+
 
 ### Chemoinformatics databases
 * ChEMBL: https://www.ebi.ac.uk/chembl/
