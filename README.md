@@ -14,7 +14,7 @@ To begin:
   
 * Click, the "Open in COLAB" batch,[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ravichas/AMPL-workshop-1/blob/main/EDA_With_Harmonization_Using_AMPL.ipynb), to open the Google COLAB notebook
 
-* If you have trouble with Binder, click **EDA_With_Harmonization_Using_AMPL.ipynb** above to open the COLAB Notebook and click on the COLAB batch to view the live notebook.
+* If you have trouble with the previous step, click **EDA_With_Harmonization_Using_AMPL.ipynb** above to open the COLAB Notebook and click on the COLAB batch to view the live notebook.
 
 ## Supporting links
 
