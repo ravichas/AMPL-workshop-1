@@ -32,6 +32,9 @@ To begin:
 * https://github.com/ravichas/AMPL-Tutorial
 * https://hpc.nih.gov/apps/ampl.html
 
+### AMPL Publication 
+* https://pubmed.ncbi.nlm.nih.gov/32243153/
+
 ### Similar chemoinformatics, drug-discovery software tools:
 * DeepChem, https://deepchem.io/
 * rdkit, https://www.rdkit.org/
