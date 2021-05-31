@@ -1,7 +1,7 @@
 # AMPL-workshop-1
 
-# NCI Data Science Learning Exchange webinar: 
-## *Generating Molecular Features for Drug Function Classification*
+# NCI Data Science Learning Exchange Hands-on Seminar: 
+## *ATOM Modeling Pipeline (AMPL) for Drug Discovery*
 *Presented by S. Ravichandran, Ph.D., BIDS, Frederick National Laboratory for Cancer Research (FNLCR)*
 
 In this workshop, we will demonstrate how to use Atom Modeling PipeLine (AMPL; https://github.com/ATOMconsortium/AMPL), a new, open-source conda-based software that automates key drug discovery steps. AMPL is designed to take molecular binding data (ex., IC50, ki, etc.) and carry out the ML steps listed in the figure above with minimal user intervention. The first workshop will introduce AMPL and highlight AMPL’s capabilities for creating ML-ready datasets. Follow-on workshops will be offered during the summer and will cover modeling methods and inference. 
