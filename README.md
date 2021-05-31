@@ -30,13 +30,17 @@ To begin:
 * DeepChem, https://deepchem.io/
 * rdkit, https://www.rdkit.org/
 
-
 ### Chemoinformatics databases
 * ChEMBL: https://www.ebi.ac.uk/chembl/
 * PubChem: https://pubchem.ncbi.nlm.nih.gov/
 * Drug Target Commons (DTC): https://drugtargetcommons.fimm.fi/
 * ExCAPE-DB: https://solr.ideaconsult.net/search/excape/
 * DrugBank: https://go.drugbank.com/
+
+### Small molecule drug-discovery related information
+* IC50, kd, ki: https://en.wikipedia.org/wiki/IC50
+* SMILES: https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system
+* Chemical Similarity: https://en.wikipedia.org/wiki/Chemical_similarity
 
 ## Acknowledgements
 * ATOM team
