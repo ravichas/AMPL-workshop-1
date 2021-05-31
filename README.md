@@ -13,6 +13,7 @@ The workshop on June 8 will include two parts, a short presentation followed by 
 To begin: 
   
 * Click on "predict_drugclass_COLAB.ipynb" to open the tutorial in Google COLAB (works best with Google Chrome browser)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ravichas/AMPL-workshop-1/blob/main/EDA_With_Harmonization_Using_AMPL.ipynb)
 
 * If you have trouble with Binder, click **predict-drugclass.ipynb** above to view a static Python JupyterNotebook.
 
