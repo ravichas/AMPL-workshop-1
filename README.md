@@ -25,6 +25,19 @@ To begin:
 
 * If you have trouble with Binder, click **predict-drugclass.ipynb** above to view a static Python JupyterNotebook.
 
+## Supporting links
+
+### Similar chemoinformatics, drug-discovery software tools:
+* DeepChem, https://deepchem.io/
+* rdkit, https://www.rdkit.org/
+
+### Chemoinformatics databases
+* ChEMBL: https://www.ebi.ac.uk/chembl/
+* PubChem: https://pubchem.ncbi.nlm.nih.gov/
+* Drug Target Commons (DTC): https://drugtargetcommons.fimm.fi/
+* ExCAPE-DB: https://solr.ideaconsult.net/search/excape/
+* DrugBank: https://go.drugbank.com/
+
 ## Acknowledgements
 * ATOM team
 
