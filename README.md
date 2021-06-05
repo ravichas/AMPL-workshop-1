@@ -10,6 +10,8 @@
 In this workshop, we will demonstrate how to use Atom Modeling PipeLine (AMPL; https://github.com/ATOMconsortium/AMPL), a new, open-source conda-based software that automates key drug discovery steps. AMPL is designed to take molecular binding data (ex., IC50, ki, etc.) and carry out the Machine-Learning (ML) steps with minimal intervention. In this workshop, we will cover the topics listed in the figure shown above. Future workshops will cover the next steps (modeling, inference) in drug discovery.
 The workshop on June 8 will include two parts, a short presentation followed by a hands-on tutorial. 
 
+Presentation Link: https://drive.google.com/file/d/1ScmouWOLOmzjw_NhNryyjHBqNXlVEw43/view?usp=sharing
+
 To begin: 
   
 * Click, the following "Open in COLAB" badge,[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ravichas/AMPL-workshop-1/blob/main/EDA_With_Harmonization_Using_AMPL.ipynb), to open the Google COLAB notebook
