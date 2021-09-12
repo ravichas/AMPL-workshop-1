@@ -20,26 +20,33 @@ To begin:
 
 ## Supporting links
 
-### AMPL Tutorials:
-* https://github.com/ATOMconsortium/AMPL/tree/Tutorials/atomsci/ddm/examples/tutorials 
-* https://github.com/ravichas/AMPL-Tutorial
-* https://hpc.nih.gov/apps/ampl.html
+### ATOM/AMPL software GitHub link:
+* https://github.com/ATOMconsortium/AMPL
 
-### AMPL Publication 
+### AMPL Software Publication: 
 * https://pubmed.ncbi.nlm.nih.gov/32243153/
+
+### AMPL Tutorials:
+* https://github.com/ATOMconsortium/AMPL/tree/master/atomsci/ddm/examples/tutorials
+* https://github.com/ravichas/AMPL-Tutorial
+
+### How to use AMPL: 
+* Download install on your local computers (conda-based Python software)
+* Use Google COLAB; check out the following link on how to get-started, https://github.com/ATOMconsortium/AMPL/tree/master/atomsci/ddm/examples/tutorials  
+* Use on NIH Biowulf HPC systems, https://hpc.nih.gov/apps/ampl.html (**NIH ID users only**)
 
 ### Similar chemoinformatics, drug-discovery software tools:
 * DeepChem, https://deepchem.io/
 * rdkit, https://www.rdkit.org/
 
-### Chemoinformatics databases
+### Chemoinformatics databases:
 * ChEMBL: https://www.ebi.ac.uk/chembl/
 * PubChem: https://pubchem.ncbi.nlm.nih.gov/
 * Drug Target Commons (DTC): https://drugtargetcommons.fimm.fi/
 * ExCAPE-DB: https://solr.ideaconsult.net/search/excape/
 * DrugBank: https://go.drugbank.com/
 
-### Small molecule drug-discovery related information
+### Small molecule drug-discovery related information:
 * IC50, kd, ki: https://en.wikipedia.org/wiki/IC50
 * SMILES: https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system
 * Chemical Similarity: https://en.wikipedia.org/wiki/Chemical_similarity
